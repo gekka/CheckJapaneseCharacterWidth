@@ -1,4 +1,6 @@
-﻿Enum EastAsianWidths
+﻿'Microsoft Limited Public Licence
+
+Enum EastAsianWidths
 
     Unknown = 0
 

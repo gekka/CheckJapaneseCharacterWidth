@@ -28,6 +28,8 @@ namespace ConsoleApplication1
             {
                 Console.WriteLine(string.Format("{0}\t{1}\t{2}", c, c.GetEastAsianWidthFrom_VB6(), c.IsWideEastAsianWidth_VB6()));
             }
+
+            Console.ReadLine();
         }
     }
 }
